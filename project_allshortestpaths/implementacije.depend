@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1674081171 source:c:\users\emir softic\onedrive\desktop\implementacije\graf.cpp
+	"graf.h"
+	<unordered_set>
+
+1674080575 c:\users\emir softic\onedrive\desktop\implementacije\graf.h
+	<iostream>
+	<vector>
+	<limits>
+	<iomanip>
+	<queue>
+	<algorithm>
+
+1674080904 source:c:\users\emir softic\onedrive\desktop\implementacije\main.cpp
+	<iostream>
+	"graf.h"
+
